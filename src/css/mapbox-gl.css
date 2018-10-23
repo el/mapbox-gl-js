@@ -231,7 +231,7 @@ a.mapboxgl-ctrl-logo.mapboxgl-compact {
     .mapboxgl-ctrl-top-left > .mapboxgl-ctrl-attrib,
     .mapboxgl-ctrl-top-right > .mapboxgl-ctrl-attrib,
     .mapboxgl-ctrl-bottom-left > .mapboxgl-ctrl-attrib {
-        margin: 5px;
+        margin: 10px;
     }
 
     .mapboxgl-ctrl-top-left > .mapboxgl-ctrl-attrib.mapboxgl-compact:hover,
